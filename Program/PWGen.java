@@ -23,18 +23,18 @@ public class PWGen {
 	// Takes users input
 	public void Information() {
 		sc = new Scanner(System.in);
-		System.out.println("System: Please set the new password length (1-20): ");
+		System.out.print("System: Please set the new password length (1-20): ");
 		PWLen = sc.nextInt();
 
 		sc2 = new Scanner(System.in);
-		System.out.println("System: Do you want Alphabets (Y/N): ");
+		System.out.print("System: Do you want Alphabets (Y/N): ");
 		PWOpt1 = sc2.nextLine();
 		if (PWOpt1.equalsIgnoreCase("N") || PWOpt1.equalsIgnoreCase("NO")) {
 			PWOpt11 = 1;
 		}
 
 		sc3 = new Scanner(System.in);
-		System.out.println("System: Do you want Special Chars (Y/N): ");
+		System.out.print("System: Do you want Special Chars (Y/N): ");
 		PWOpt2 = sc3.nextLine();
 		if (PWOpt2.equalsIgnoreCase("N") || PWOpt2.equalsIgnoreCase("NO")) {
 			PWOpt22 = 1;
