@@ -16,9 +16,9 @@ may use this program if they want random series of pws.
 
 ### Pictures:
 
-Console view:
+#### Console view:
 <a href = "Pictures/pic1.PNG"><img src = "Pictures/pic1.PNG">
 
-GUI implementation:
+#### GUI implementation:
 <a href = "Pictures/pic2.PNG"><img src = "Pictures/pic2.PNG">
 <a href = "Pictures/pic3.PNG"><img src = "Pictures/pic3.PNG">
