@@ -15,7 +15,7 @@ may use this program if they want random series of pws.
 ```
 
 ### Pictures:
-<a href = "Pictures/pic1.png"><img src = "Pictures/pic1.png">
+<a href = "Pictures/pic1.PNG"><img src = "Pictures/pic1.PNG">
 
 ### Potentials:
 ```
